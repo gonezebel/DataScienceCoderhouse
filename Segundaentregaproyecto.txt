@@ -1,0 +1,2 @@
+- Link Colab: https://colab.research.google.com/drive/1HL0Ord6BRuopwxlmfMoHpt44QjcbwDoh?usp=sharing
+- Link PPT: https://github.com/gonezebel/DataScienceCoderhouse/blob/7a56f0947a3105e02fb840c224cda5dd43c69b11/DataScienceStopPoliceBrutality_2daentrega.pptx
