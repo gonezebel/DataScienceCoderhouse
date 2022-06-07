@@ -1,0 +1,3 @@
+1) Link Google Colab (Es nuevo, nos tiró error el anterior): https://colab.research.google.com/drive/1T-yu8GhJYP3b5RHPm2xtbrFKiUo_8jQl?usp=sharing
+
+2) Presentación ejectuvivo: https://github.com/gonezebel/DataScienceCoderhouse/blob/main/DataScienceStopPoliceBrutality_3ra%20entrega.pdf
