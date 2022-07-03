@@ -1,0 +1,3 @@
+Colab Notebook: https://colab.research.google.com/drive/1T-yu8GhJYP3b5RHPm2xtbrFKiUo_8jQl?usp=sharing
+
+Documento Ejecutivo: https://github.com/gonezebel/DataScienceCoderhouse/blob/622d79c2aafc43920d331c611c4bd4f115b1b860/DataScienceStopPoliceBrutality_entregafinal.pdf
